@@ -1,6 +1,6 @@
 '''
 
-This perackground substraction based on OpenCV
+This background substraction based on OpenCV
 
 Reference: https://docs.opencv.org/4.x/d1/dc5/tutorial_background_subtraction.html
 '''
