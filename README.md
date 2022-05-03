@@ -16,8 +16,7 @@ En este video se ha trazado la huella de unas moscas con facilidad, ya que el ci
 
 https://vimeo.com/705848738
 
-<iframe src="https://player.vimeo.com/video/705848738?h=59d274161d" width="640" height="341" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/705848738">Moscas detectadas por filtro de color</a> from <a href="https://vimeo.com/user173775396">trayectorias vitales</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 # Algoritmo con substracción del fondo
 
