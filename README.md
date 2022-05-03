@@ -14,7 +14,10 @@ Puedes saber más de los filtros de color en el siguiente link: https://docs.ope
 Ejemplo con insectos:
 En este video se ha trazado la huella de unas moscas con facilidad, ya que el cielo es el fondo y por lo tanto es muy iluminado. Las moscas al hacer sombra lucen oscuras en la toma, por ello se puede aplicar un filtro que solo deje pasar a los pixeles con un valor V del espectro HSV bajo.
 
-(insertar video huella rapida 1.avi)
+https://vimeo.com/705848738
+
+<iframe src="https://player.vimeo.com/video/705848738?h=59d274161d" width="640" height="341" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/705848738">Moscas detectadas por filtro de color</a> from <a href="https://vimeo.com/user173775396">trayectorias vitales</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 # Algoritmo con substracción del fondo
 
