@@ -19,6 +19,7 @@ En este video se ha trazado la huella de unas moscas con facilidad, ya que el ci
 # Algoritmo con substracción del fondo
 
 En este método primero se aplica una substracción del fondo para detectar después los objetos que se han movido. Para este método se necesita que la toma se mantenga estática y que el fondo no cambie su nivel de iluminación, mientras mas estático sea el fondo mejor funcionará el algoritmo. Hemos hecho algunas pruebas colocando la cámara sobre un fondo estático para luego trazar las trayectorias de algunos insectos.
+Puedes saber más de los algoritmos de substracción de fondo en el siguiente link: https://docs.opencv.org/4.x/d1/dc5/tutorial_background_subtraction.html
 
 Ejemplo con hormigas 
 (insertar video 220425 pinkwall )
