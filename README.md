@@ -23,16 +23,19 @@ https://vimeo.com/705848738
 En este método primero se aplica una substracción del fondo para detectar después los objetos que se han movido. Para este método se necesita que la toma se mantenga estática y que el fondo no cambie su nivel de iluminación, mientras mas estático sea el fondo mejor funcionará el algoritmo. Hemos hecho algunas pruebas colocando la cámara sobre un fondo estático para luego trazar las trayectorias de algunos insectos.
 Puedes saber más de los algoritmos de substracción de fondo en el siguiente link: https://docs.opencv.org/4.x/d1/dc5/tutorial_background_subtraction.html
 
-Ejemplo con hormigas 
-(insertar video 220425 pinkwall )
+Ejemplo con hormigas :
+https://vimeo.com/705858850
+ 
 
-(insertar otro video de toma estática )
 
 # Dispositivo con Raspberry Pi
 
 Hemos construido un dispositivo con una Raspberry Pi 3 y una Raspberry Pi Camera V2, hemos ejecutado el código que usa filtro de color para trazar algunas trayectorias de insectos. Ya que el filtro de color requiere que haya un contraste entre el fondo y el insecto hemos colocado una hoja de papel blanca en algunos lugares donde podrían pasar insectos, aquí les mostramos el resultado.
 
-(insertar video Tracker_1 y videos de pruebas con el dispositivo de raspberry )
+Prueba con raspberry:
+
+https://vimeo.com/705859782
+
 
 
 
